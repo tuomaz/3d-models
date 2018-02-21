@@ -4,7 +4,7 @@ base_bottom_r=160/2;
 base_top_r=49.2/2;
 base_h=15;
 
-top_h=60;
+top_h=50;
 wall=10;
    
 
